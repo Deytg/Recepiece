@@ -1,0 +1,22 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: url(https://phonoteka.org/uploads/posts/2021-05/1621893934_6-phonoteka_org-p-fon-dlya-prezentatsii-na-kulinarnuyu-temu-6.jpg);
+    background-attachment: fixed;
+}
+.v7 {
+    width: 100px;
+    height: 50px;
+}
+b {
+    font-size: 30px;
+}
+h1, h2, h3 {
+    text-align: center;
+}
+p {
+    font-size: 20px;
+}
+.n78 {
+    width: 310px;
+    height: 200px;
+}
